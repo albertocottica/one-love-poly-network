@@ -1,4 +1,4 @@
-# one-love-poly-networkl
+# one-love-poly-network
 A simple netlogo model simulating a population that goes from monogamy to polyamory
 
 This is a very simple agent-based model simulating simulating a population that goes from monogamy to polyamory. It is written in NetLogo. In the tradition of NetLogo models, the documentation is added to the Info tab of the model itself. 
